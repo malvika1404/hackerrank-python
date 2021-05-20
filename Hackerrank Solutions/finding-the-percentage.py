@@ -5,6 +5,8 @@
 # The user then enters a student's name. 
 # Output the average percentage marks obtained by that student, correct to two decimal places.
 
+#Level - Easy
+
 N = int(input(" Number of Students "))
 marks = {}
 for _ in range(N):
